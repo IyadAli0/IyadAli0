@@ -13,7 +13,7 @@
 
 I'm a software engineer with a passion for continuous learning and growth. My journey in the world of technology has led me to work with a variety of cutting-edge technologies, including React, Vue.js, Node.js, Flask, and Scala. Alongside my professional experience, I thrive as a competitive programmer, always seeking to push the boundaries of what's possible in the world of coding.
 
-I hold a degree in Computing and Data Science, which has equipped me with a solid foundation in the fundamentals of computer science and data science. Whether it's building web applications, solving complex coding challenges, or diving into data-driven insights, I'm driven by a deep curiosity and a commitment to delivering high-quality solutions.
+I hold a degree in Computer Science, which has equipped me with a solid foundation in the fundamentals of computer science and data science. Whether it's building web applications, solving complex coding challenges, or diving into data-driven insights, I'm driven by a deep curiosity and a commitment to delivering high-quality solutions.
 
 ## 🛠️ Skills
 
